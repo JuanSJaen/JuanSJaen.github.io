@@ -8,7 +8,7 @@ seo:
     alt: Yo
 ---
 
-![Alt text for image](/JSJ.jpg)
+![Yo](/JSJ.jpg)
 
 **Note!:** Algo más sobre mi
 
