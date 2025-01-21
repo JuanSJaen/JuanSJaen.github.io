@@ -7,7 +7,7 @@ tags:
   - Web development
 seo:
   image:
-    src: '/post-2.jpg'
+    src: '/Balonmano.jpg'
     alt: Half open laptop on a desk
 ---
 
