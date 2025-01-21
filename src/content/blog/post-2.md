@@ -3,8 +3,7 @@ title: Porqué balonmano es más interesante que otros deportes.
 excerpt: En nuestro país el fútbol domina en todas las cadenas de televisión consiguiendo ser el deporte más visto. Sin embargo, con la experiencia y comentarios de otras personas, me atrevería a decir que ver balonmano es mucho más interesante. 
 publishDate: 'October 5 2023'
 tags:
-  - Web
-  - Web development
+
 seo:
   image:
     src: '/Balonmano.jpg'
